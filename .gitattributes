@@ -1,0 +1,2 @@
+*.usdnc filter=lfs diff=lfs merge=lfs -text
+*.bgeo.sc filter=lfs diff=lfs merge=lfs -text
